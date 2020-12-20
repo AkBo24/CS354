@@ -1,0 +1,54 @@
+Problem 1.  Write assembly code for the increment function below.  This code may be found in increment1.c
+
+int increment(int x){
+    return x+1;
+}
+
+int main(){
+    int f = 10;
+    f = increment(f);
+    return 0;
+}
+
+Correct Answer:
+
+increment:
+    pushl %ebp           #store previous base pointer (previous frame pointer)
+    movl  %esp, %ebp     #bring the base pointer to the current frame (increment)
+    
+    #body
+    movl  8(%ebp), %eax  #store the parameter into register %eax
+    addl  $1, %eax
+
+    popl %ebp            #restore the previous base pointer
+    ret
+
+main:
+    #Setup stack, allocate mem for local var
+    pushl %ebp
+    movl  %esp, %ebp
+    addl $-4, %esp       # allocate space on the stack for f (int var)
+    movl $10, -4(%ebp)   # store 10 into the memory allocated for f
+
+    #setup increment
+    pushl -4(%ebp)       # push the parameter for increment (f) onto the stack, for global access
+    call  increment
+    movl  %eax, -4(%ebp) # store the returned value into f
+
+    #clean up
+    addl $4, %esp        # deallocate mem for local variable f
+    movl $0, % eax       # move 0 into eax for return 0; in main
+    ret
+
+
+
+(INCORRECT) Answer:
+
+increment:
+inc %edx
+ret %edx
+
+main:
+movl $10, %edx  ;store 10 into register 10
+call increment  ;no need to return edx since it is incremented (caller-saved reg)
+movl $0, %eax

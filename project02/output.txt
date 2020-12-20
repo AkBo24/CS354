@@ -1,0 +1,518 @@
+Willkommen auf der Enigma-Maschine!
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: FJHHJ
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+DECRYPTION WITH ENIGMA!
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+----------------------------------------------------
+Enter the line(s) of text to be decrypted: DECRYPTED MESSAGE: ZTFROA
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+V Z B R G I T Y U P S D N H L X A W M J Q O F E C K 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+E K M F L G D Q V Z N T O W Y H X U S P A I B R C J 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+V Z B R G I T Y U P S D N H L X A W M J Q O F E C K 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+E K M F L G D Q V Z N T O W Y H X U S P A I B R C J 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: UXGQPU
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: FPGJDBRI
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+DECRYPTION WITH ENIGMA!
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+N Z J H G R C X M Y S W B O U F A I V L P E K Q D T 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+N Z J H G R C X M Y S W B O U F A I V L P E K Q D T 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+Enter the line(s) of text to be decrypted: DECRYPTED MESSAGE: QEGTQE
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+DECRYPTION WITH ENIGMA!
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+J P G V O U M F Y Q B E N H Z R D K A S X L I C T W 
+----------------------------------------------------
+Enter the line(s) of text to be decrypted: DECRYPTED MESSAGE: BNXGANG
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E K M F L G D Q V Z N T O W Y H X U S P A I B R C J 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+B R C J E K M F L G D Q V Z N T O W Y H X U S P A I 
+F V O E A J D K S I R U X B L H W T M C Q G Z N P Y 
+U S Q O B D F H J L C P R T X V Z N Y E I W G A K M 
+C M W B E S O V P Z J A Y Q U I R H X L N F T G K D 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: HXYZ
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E K M F L G D Q V Z N T O W Y H X U S P A I B R C J 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+B R C J E K M F L G D Q V Z N T O W Y H X U S P A I 
+F V O E A J D K S I R U X B L H W T M C Q G Z N P Y 
+U S Q O B D F H J L C P R T X V Z N Y E I W G A K M 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: FIBU
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+DECRYPTION WITH ENIGMA!
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+V Z B R G I T Y U P S D N H L X A W M J Q O F E C K 
+N Z J H G R C X M Y S W B O U F A I V L P E K Q D T 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+S O V P Z J A Y Q U I R H X L N F T G K D C M W B E 
+Z B R G I T Y U P S D N H L X A W M J Q O F E C K V 
+Z J H G R C X M Y S W B O U F A I V L P E K Q D T N 
+----------------------------------------------------
+Enter the line(s) of text to be decrypted: DECRYPTED MESSAGE: XQLFEPZ
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: Input is not valid. Try again.
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: Input is not valid. Try again.
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: Input is not valid. Try again.
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+DECRYPTION WITH ENIGMA!
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E K M F L G D Q V Z N T O W Y H X U S P A I B R C J 
+A J D K S I R U X B L H W T M C Q G Z N P Y F V O E 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+T O W Y H X U S P A I B R C J E K M F L G D Q V Z N 
+H W T M C Q G Z N P Y F V O E A J D K S I R U X B L 
+V Z N Y E I W G A K M U S Q O B D F H J L C P R T X 
+----------------------------------------------------
+Enter the line(s) of text to be decrypted: DECRYPTED MESSAGE: IHAATQ
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: Invalid rotor configuration. Try again.
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: You cannot use the same rotor twice in a row. Try again.
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: You cannot use more than 4 rotors. Try again.
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: Invalid rotor configuration. Try again.
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: Invalid rotor configuration. Try again.
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+B D F H J L C P R T X V Z N Y E I W G A K M U S Q O 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+M W B E S O V P Z J A Y Q U I R H X L N F T G K D C 
+S Q O B D F H J L C P R T X V Z N Y E I W G A K M U 
+M W B E S O V P Z J A Y Q U I R H X L N F T G K D C 
+S Q O B D F H J L C P R T X V Z N Y E I W G A K M U 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: WXJOFHE
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+N Z J H G R C X M Y S W B O U F A I V L P E K Q D T 
+F K Q H T L X O C B J S P D Z R A M E W N I U Y G V 
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: Invalid number of rotations. Try again.How many rotations you want to perform on the rotors?: Invalid number of rotations. Try again.How many rotations you want to perform on the rotors?: Invalid number of rotations. Try again.How many rotations you want to perform on the rotors?: Invalid number of rotations. Try again.How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E K Q D T N Z J H G R C X M Y S W B O U F A I V L P 
+I U Y G V F K Q H T L X O C B J S P D Z R A M E W N 
+D C M W B E S O V P Z J A Y Q U I R H X L N F T G K 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: BKCCNYKK
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: 
+ENCRYPTION WITH ENIGMA!
+=======================
+
+ROTOR CONFIGURATION
+ -------------------
+ This must be a list of numbers in the range from 0 to 8, with no spaces or other delimiters.
+ Maximum number of rotors you can use is 4. Note that rotor 0 is the identity rotor.
+         
+ENTER YOUR ROTOR CONFIGURATION: 
+YOUR ROTOR CONFIGURATION BEFORE ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+E S O V P Z J A Y Q U I R H X L N F T G K D C M W B 
+----------------------------------------------------
+How many rotations you want to perform on the rotors?: 
+YOUR ROTOR CONFIGURATION AFTER ROTATION
+
+====================================================
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+====================================================
+D C M W B E S O V P Z J A Y Q U I R H X L N F T G K 
+----------------------------------------------------
+Enter the line(s) of text to be encrypted: ENCRYPTED MESSAGE: DJJQF HUDMBH VY ABHHDSB
+
+OPTIONS
+2 : encrypt a message
+3 : decrypt a message
+1 : exit the Enigma Machine
+
+ENTER YOUR CHOICE: Auf Wiedersehen!

@@ -1,0 +1,55 @@
+Problem 2.  Write assembly code for the increment function below. This code may be found in increment2.c
+
+void increment(int *x){
+    *x = *x + 1;
+}
+
+int main(){
+    int f = 10;
+    increment(&f);
+    return 0;
+}
+
+Answer:
+
+increment:
+    pushl %ebp             # store prev base stack pointer
+    movl  %esp, %ebp       # store current stack pointer into base pointer
+
+    #body
+    addl  $1, (%eax)
+
+    #tear down
+    popl %ebp
+    ret
+
+main:
+    pushl %ebp             # store prev base stack pointer
+    movl  %esp, %ebp       # store current stack pointer into base pointer
+
+    addl  $-4, %esp        #allocate mem for f
+    movl  $10, -4(%esp)    #store 10 into the above memory
+
+    #setup for calling increment
+    leal  -4(%ebp), %eax   #get address of f, &f
+    call increment
+
+    #tear down
+    movl %eax, -4(%ebp)    #deallocate mem prev allocated for f
+    movl $0, %eax
+    ret
+
+
+
+(INCORRECT) My Answer:
+
+increment:
+add $1, (%edx)
+ret %edx
+
+main:
+movl $10, 0x100
+movl 0x100, %edx  ;int *f = 0x100;
+call increment
+movl $0, %eax
+ret  %eax

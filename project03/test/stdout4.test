@@ -1,0 +1,3 @@
+LIST CONTENT AS OF FILE test/2-10.txt: head->|0|->|6|->NULL
+LIST CONTENT AS OF FILE test/3-50.txt: head->|31|->|40|->|16|->|0|->|6|->NULL
+LIST CONTENT AS OF FILE test/10-500.txt: head->|243|->|35|->|440|->|21|->|258|->|12|->|241|->|381|->|240|->|166|->|31|->|40|->|16|->|0|->|6|->NULL
